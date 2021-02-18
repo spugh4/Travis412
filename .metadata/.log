@@ -174,3 +174,6 @@ Contains: C:\Users\Steven\git\Travis412 overlaps the workspace location: C:\User
 !MESSAGE OK
 !SUBENTRY 2 org.eclipse.core.resources 4 77 2021-02-18 15:42:05.486
 !MESSAGE C:\Users\Steven\git\Travis412 overlaps the workspace location: C:\Users\Steven\git\Travis412
+
+!ENTRY com.instantiations.eclipse 1 0 2021-02-18 15:47:08.435
+!MESSAGE StartupPlugin: could not remove workbench property change listener (1) ... workbench might already be shut down.
